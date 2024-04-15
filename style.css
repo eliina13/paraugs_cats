@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/025/067/762/small_2x/4k-beautiful-colorful-abstract-wallpaper-photo.jpg);
+}
+.pamatlaukums{
+    background-color: blanchedalmond;
+    width: 500px;
+    height: 500px;
+    border: 2px solid rgb(217, 112, 133);
+    padding: 10px;
+    margin: auto;
+}
+.cataZina{
+    background-color: chartreuse;
+    height: 430px ;
+    padding: 10px;
+    overflow: scroll;
+    color: brown;
+}
